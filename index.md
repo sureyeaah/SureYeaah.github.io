@@ -3,7 +3,7 @@
 ![Moi](static/me.jpg){#avatar .ui .right .floated .small .image .bordered}
 Welcome to my homepage! I am __Shaurya Gupta__, a software engineer from India who is passionate about __Haskell__, __programming languages__ and __compilers__!
 
-I take notes in Zettelkasten style using [Neuron][1]. This website is also generated using Neuron.
+I take notes in Zettelkasten style using [Neuron][1] which is also used to generate this website.
 
 ## Bio
 
