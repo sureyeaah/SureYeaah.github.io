@@ -14,7 +14,7 @@ In a previous life, I did [[cp]] and went to the [ICPC World Finals][13] twice.
 
 My [dev setup][17] is Arch Linux with XMonad, XMobar and Kitty. I'm in the process of transitioning to NixOS.
 
-Although I am not a very artsy person, I like to think I have a good taste in films([Letterboxd][2]) and music([Last.fm][6], [Spotify][4]) and would love to exchange recommendations.
+Although I am not a very artsy person, I like to think I have a good taste (thanks to Hiro!) in films([Letterboxd][2]) and music([Last.fm][6], [Spotify][4]) and would love to exchange recommendations.
 
 My name is pronounced as **shor**_t_ + **ya**. I go by the online alias _SureYeaah_ which sounds similar to my name.
 
